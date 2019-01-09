@@ -1,0 +1,38 @@
+﻿Created By AccessData® FTK® Imager 3.2.0.0 
+
+Case Information: 
+Acquired using: ADI3.2.0.0
+Case Number: 1
+Evidence Number:  
+Unique Description: 
+Examiner: Sneha Rangari
+Notes:  
+
+--------------------------------------------------------------
+
+Information for D:\Masters in Cybersecurity\Second Semester\Forensics\SNEHA:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 16,383
+ Heads: 16
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 266,338,304
+[Physical Drive Information]
+ Drive Interface Type: ide
+[Image]
+ Image Type: VMWare Virtual Disk
+ Source data size: 130048 MB
+ Sector count:    266338304
+[Computed Hashes]
+ MD5 checksum:    fbf74bbf863c4f1136ee4652f4f740c2
+ SHA1 checksum:   78104cd905827108f41bbb979fff4719767dff6c
+
+Image Information:
+ Acquisition started:   Mon Dec 03 17:04:10 2018
+ Acquisition finished:  Mon Dec 03 17:45:52 2018
+ Segment list:
+  D:\Masters in Cybersecurity\Second Semester\Forensics\SNEHA.E01
